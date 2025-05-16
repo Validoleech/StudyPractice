@@ -1,0 +1,187 @@
+[
+  {
+    "uuid": "e96f60f8-1b44-4e87-8175-35ec853bf033",
+    "trigger": [
+      "Intellect",
+      "Analysis"
+    ],
+    "entry": "{\"Attribute\": [\"Intellect\"], \"Skill name\": [\"Analysis\"], \"Skill description\": [\"Spot minute details. Connect disparate facts.\"], \"Cool for\": [\"Forensic Scientists\", \"Conspiracy Theorists\", \"Eagle-Eyed Pedants.\"], \"Description\": [\"Analysis lets you scrutinize your surroundings. Uncover hidden objects, notice subtle shifts in behavior, and draw connections others miss. It\\\\'s your magnifying glass on reality.\"], \"Use cases\": [\"High Analysis reveals a world teeming with information; every scuff mark tells a story. You might overthink, seeing patterns where none exist. Low Analysis means you\\\\'ll miss obvious clues. The world will seem simpler, but crucial details will slip by unnoticed.\"]}"
+  },
+  {
+    "uuid": "315ee035-268a-44da-a905-d5a9895e89eb",
+    "trigger": [
+      "Intellect",
+      "Connections"
+    ],
+    "entry": "{\"Attribute\": [\"Intellect\"], \"Skill name\": [\"Connections\"], \"Skill description\": [\"Find hidden links. Connect disparate facts.\"], \"Cool for\": [\"Conspiracy Theorists\", \"Investigative Journalists\", \"String-Board Enthusiasts.\"], \"Description\": [\"Connections lets you see the invisible threads tying everything together. Uncover motives, link suspects to places, and reveal the grand, underlying scheme.\"], \"Use cases\": [\"High Connections reveals unexpected links, sometimes where none exist, leading to elaborate theories. Low Connections means you struggle to see how one event influences another, making complex motives obscure.\"]}"
+  },
+  {
+    "uuid": "c5816a69-2def-402e-bcc0-25c14002a37d",
+    "trigger": [
+      "Intellect",
+      "Pale Knowledge"
+    ],
+    "entry": "{\"Attribute\": [\"Intellect\"], \"Skill name\": [\"Pale Knowledge\"], \"Skill description\": [\"Understand the encroaching Pale. Survive its whispers.\"], \"Cool for\": [\"Existentialists\", \"Cartographers\", \"Doomsayers.\"], \"Description\": [\"The Pale surrounds everything. Know its nature, its history, and how it warps reality. Navigate its influence, don\\\\'t succumb to its despair.\"], \"Use cases\": [\"High Pale Knowledge lets you interpret strange phenomena and even find paths through diluted Pale. You might become detached from mundane concerns. Low Pale Knowledge leaves you vulnerable to its mental erosion, making strange occurrences terrifying and incomprehensible.\"]}"
+  },
+  {
+    "uuid": "aadfbfac-5941-4694-b857-aabd9055cd72",
+    "trigger": [
+      "Intellect",
+      "Firearms"
+    ],
+    "entry": "{\"Attribute\": [\"Intellect\"], \"Skill name\": [\"Firearms\"], \"Skill description\": [\"Understand ranged weaponry. Discern ballistic truths.\"], \"Cool for\": [\"Ballistic Experts\", \"Gun Nuts\", \"Ex-Military Tacticians.\"], \"Description\": [\"Firearms helps you identify weapons, analyze trajectories, and understand the grim mechanics of a shooting. Know your Glocks from your Tokarevs.\"], \"Use cases\": [\"High Firearms grants insight into bullet paths, weapon modifications, and shooter intent. You might overanalyze, seeing conspiracies in every shell casing. Low Firearms means you barely know which end is dangerous. You\\\\'ll struggle to connect a gun to a crime.\"]}"
+  },
+  {
+    "uuid": "abe875b8-e46b-49e1-91bf-e6041e326447",
+    "trigger": [
+      "Intellect",
+      "Militia Training"
+    ],
+    "entry": "{\"Attribute\": [\"Intellect\"], \"Skill name\": [\"Militia Training\"], \"Skill description\": [\"Recall tactical doctrine. Identify military hardware.\"], \"Cool for\": [\"Armchair Generals\", \"Weekend Warriors\", \"Gun Nuts.\"], \"Description\": [\"Militia Training lets you dissect combat scenarios and recognize equipment. Understand troop movements, weapon calibers, and the grim logic of armed conflict.\"], \"Use cases\": [\"High Militia Training offers keen insights into tactical situations, sometimes seeing threats where none exist. Low levels mean military matters are a confusing jumble; you might mistake a water pistol for a howitzer, making dangerous assumptions.\"]}"
+  },
+  {
+    "uuid": "928585a0-70fe-4c35-865d-94a8900d32c0",
+    "trigger": [
+      "Intellect",
+      "Politics"
+    ],
+    "entry": "{\"Attribute\": [\"Intellect\"], \"Skill name\": [\"Politics\"], \"Skill description\": [\"Unravel political webs. See hidden motives.\"], \"Cool for\": [\"Chess Masters\", \"Armchair Generals\", \"Aspiring Dictators.\"], \"Description\": [\"Politics lets you dissect power structures. Understand who wants what, why, and how they plan to get it. Indispensable for navigating the treacherous waters of any organization.\"], \"Use cases\": [\"High Politics reveals the intricate dance of influence and coercion, though it might lead to seeing plots everywhere. Low Politics means you\\\\'re often blindsided by backroom deals and blatant manipulations, taking official narratives as truth.\"]}"
+  },
+  {
+    "uuid": "ac2ef402-43ca-49e6-badb-f0b5c9e5b5f8",
+    "trigger": [],
+    "entry": "{\"1.Attribute\": [\"Psyche\"], \"2.Skill name\": [\"Empathy\"], \"Skill description\": [\"Feel others\\\\' hearts. Understand their motives.\"], \"Cool for\": [\"Humanitarians\", \"Soul-Readers\", \"Bleeding Hearts.\"], \"Description\": [\"Empathy lets you connect with the emotional undercurrents of Hong Kong. Read suspects, console victims, and navigate the fragile peace. It\\\\'s your inner compass for the human soul.\"], \"Use cases\": [\"High Empathy tunes you into subtle emotional shifts, revealing hidden truths and intentions. Beware, though; absorbing too much can overwhelm your own judgment. Low Empathy makes others an enigma. You\\\\'ll struggle to gauge reactions or build trust, often misreading situations entirely.\"]}"
+  },
+  {
+    "uuid": "da261b4d-0e2a-4297-99d0-5f4b2fd9bb22",
+    "trigger": [
+      "Psyche",
+      "Composure"
+    ],
+    "entry": "{\"Attribute\": [\"Psyche\"], \"Skill name\": [\"Composure\"], \"Skill description\": [\"Stay cool. Keep it together.\"], \"Cool for\": [\"Poker Faces\", \"Stoics\", \"Unflappable Badasses.\"], \"Description\": [\"Composure helps you maintain a calm exterior, even when your insides are screaming. Resist intimidation, bluff with confidence, and don\\\\'t crack under pressure. Essential for navigating tense negotiations and dangerous encounters.\"], \"Use cases\": [\"High Composure lets you face down a firing squad without flinching, making you a rock in any storm. However, you might appear cold or detached. Low Composure means you\\\\'ll wear your heart on your sleeve, easily flustered and prone to emotional outbursts. You\\\\'ll struggle to hide your true feelings.\"]}"
+  },
+  {
+    "uuid": "d8a20ffe-6b91-46e4-890f-85910dc2a20a",
+    "trigger": [
+      "Psyche",
+      "Willpower"
+    ],
+    "entry": "{\"Attribute\": [\"Psyche\"], \"Skill name\": [\"Willpower\"], \"Skill description\": [\"Stay true to your convictions. Resist mental attacks.\"], \"Cool for\": [\"Unwavering Moralists\", \"Stubborn Mules\", \"Stoic Philosophers.\"], \"Description\": [\"Willpower keeps your head straight. It helps you face down intimidation, ignore taunts, and stick to your guns, no matter how much pressure you’re under. A strong will is your shield.\"], \"Use cases\": [\"High Willpower lets you shrug off doubt and external influence, making you a rock. But too much can make you inflexible, unable to see other perspectives. Low Willpower leaves you vulnerable to suggestion and easily swayed, your resolve crumbling under pressure. You might find yourself agreeing to things you later regret.\"]}"
+  },
+  {
+    "uuid": "4b126167-c671-4329-8b86-6b9111665c28",
+    "trigger": [
+      "Psyche",
+      "Interrogation"
+    ],
+    "entry": "{\"Attribute\": [\"Psyche\"], \"Skill name\": [\"Interrogation\"], \"Skill description\": [\"Break down suspects. Extract the truth.\"], \"Cool for\": [\"Truth Seekers\", \"Human Lie Detectors\", \"Confession Connoisseurs.\"], \"Description\": [\"Interrogation allows you to dismantle defenses and uncover hidden information. It\\\\'s about controlled pressure, reading tells, and making people sing. Essential for cracking tough nuts.\"], \"Use cases\": [\"High Interrogation turns you into a master of psychological warfare, dissecting motives and forcing admissions. You might become overly suspicious. Low Interrogation means you\\\\'ll struggle to get anyone to talk. You\\\\'ll miss obvious cues and suspects will easily deflect your questions, making you feel powerless.\"]}"
+  },
+  {
+    "uuid": "eb09e25f-c389-47e8-a8c9-50fbc4b71658",
+    "trigger": [
+      "Psyche",
+      "Streetwise"
+    ],
+    "entry": "{\"Attribute\": [\"Psyche\"], \"Skill name\": [\"Streetwise\"], \"Skill description\": [\"Navigate the urban labyrinth. Uncover its hidden truths.\"], \"Cool for\": [\"Gutter Rats\", \"Shadow Brokers\", \"Concrete Shamans.\"], \"Description\": [\"Streetwise helps you decipher the city\\\\'s secret language. You\\\\'ll know the shortcuts, the dealers, the whispers on the wind. It’s your key to the underbelly.\"], \"Use cases\": [\"High Streetwise means the city speaks to you. You\\\\'ll find hidden paths, understand slang, and sense danger before it strikes. Low Streetwise means you\\\\'re a tourist in your own town. You\\\\'ll get lost, ripped off, and miss the obvious signs. The streets will chew you up.\"]}"
+  },
+  {
+    "uuid": "05021a0a-e46d-4f26-8277-03b878f46ef4",
+    "trigger": [
+      "Psyche",
+      "Intimidation"
+    ],
+    "entry": "{\"Attribute\": [\"Psyche\"], \"Skill name\": [\"Intimidation\"], \"Skill description\": [\"Instill fear. Bend wills.\"], \"Cool for\": [\"Bullies\", \"Enforcers\", \"Aspiring Tyrants.\"], \"Description\": [\"Intimidation lets you cow others into submission. Make them spill secrets, back down, or do your bidding. A primal tool for asserting dominance.\"], \"Use cases\": [\"High Intimidation makes people tremble at your mere presence. They\\\\'ll confess readily, but might resent you. Low Intimidation means your attempts to scare are laughable. You\\\\'ll struggle to get anyone to take your threats seriously, often provoking defiance.\"]}"
+  },
+  {
+    "uuid": "a4d11d64-3862-494f-988e-2bc51c9329a0",
+    "trigger": [],
+    "entry": "{\"1. Attribute\": [\"Physique\"], \"2. Skill name\": [\"Endurance\"], \"3. Skill description\": [\"Survive. Prevail.\"], \"4. Cool for\": [\"Stonewalls\", \"Marathon Men\", \"Unkillable Beasts.\"], \"5. Description\": [\"Endurance keeps you on your feet. Absorb blows, push through pain, and outlast any challenge. It\\\\'s your raw will to live made flesh.\"], \"6. Use cases\": [\"High Endurance lets you shrug off serious injury, but can make you reckless, believing you\\\\'re invincible. Low Endurance means every hit feels like a knockout, making you overly cautious and hesitant in physical confrontations, fearing even minor scrapes.\"]}"
+  },
+  {
+    "uuid": "3fef8e8d-1766-4937-af61-406d29b7f950",
+    "trigger": [
+      "Physique",
+      "Pain Threshold"
+    ],
+    "entry": "{\"Attribute\": [\"Physique\"], \"Skill name\": [\"Pain Threshold\"], \"Skill description\": [\"Ignore pain. Stay conscious.\"], \"Cool for\": [\"Daredevils\", \"Stoics\", \"Masochists.\"], \"Description\": [\"Pain Threshold lets you shrug off physical discomfort. It keeps you on your feet when others would crumble, allowing you to push through injuries and continue the investigation.\"], \"Use cases\": [\"High Pain Threshold means you can take a beating and keep going, but you might ignore serious wounds until it\\\\'s too late. Low Pain Threshold makes every hit agony, potentially incapacitating you quickly, but you\\\\'ll always know exactly how hurt you are.\"]}"
+  },
+  {
+    "uuid": "2b4c63b1-0d5a-4b77-a0f7-7c10b35ced43",
+    "trigger": [
+      "Physique",
+      "Brawling"
+    ],
+    "entry": "{\"Attribute\": [\"Physique\"], \"Skill name\": [\"Brawling\"], \"Skill description\": [\"Throw a mean punch. Take a beating.\"], \"Cool for\": [\"Barroom Heroes\", \"Street Fighters\", \"People Who Think Fists Are Arguments.\"], \"Description\": [\"Brawling lets you handle yourself when words fail. Land blows, absorb punishment, and generally make a mess. Sometimes, a well-placed fist is the only answer.\"], \"Use cases\": [\"High Brawling makes you confident, seeing every problem as a nail for your fist-hammer. You\\\\'ll be eager to fight. Low Brawling means you\\\\'ll second-guess any physical confrontation, your mind racing with ways to avoid a scrap. You\\\\'ll hesitate.\"]}"
+  },
+  {
+    "uuid": "e2160b0e-061a-4f55-b198-69df0b66ad7d",
+    "trigger": [
+      "Physique",
+      "Strength"
+    ],
+    "entry": "{\"Attribute\": [\"Physique\"], \"Skill name\": [\"Strength\"], \"Skill description\": [\"Exert raw physical power. Bend objects to your will.\"], \"Cool for\": [\"Strongmen\", \"Enforcers\", \"Demolition Experts.\"], \"Description\": [\"Strength allows you to overcome physical obstacles. Force open doors, lift heavy things, and intimidate through might.\"], \"Use cases\": [\"High Strength makes you a physical powerhouse, but you might try to solve every problem with force. Low Strength means physical tasks are a struggle; you\\\\'ll need to find other ways around.\"]}"
+  },
+  {
+    "uuid": "32e819eb-05b1-4f75-bd5b-c5d0447b3a27",
+    "trigger": [
+      "Physique",
+      "Intimidation (Physical)"
+    ],
+    "entry": "{\"Attribute\": [\"Physique\"], \"Skill name\": [\"Intimidation (Physical)\"], \"Skill description\": [\"Make them cower. Bend them to your will.\"], \"Cool for\": [\"Bouncers\", \"Drill Sergeants\", \"Grizzly Bears in human form.\"], \"Description\": [\"Intimidation lets your sheer physical presence do the talking. People tend to be more cooperative when faced with the prospect of bodily harm. A well-timed glare or a strategically cracked knuckle can open doors that politeness can\\\\'t.\"], \"Use cases\": [\"High Intimidation makes you a walking threat. People will spill secrets or back down from confrontations, sometimes too easily, making you miss subtle cues. Low Intimidation means your attempts to scare are laughable. You\\\\'ll need to rely on words.\"]}"
+  },
+  {
+    "uuid": "4f949e14-8bd1-487b-a53f-7550e2c0b911",
+    "trigger": [
+      "Physique",
+      "Metabolism"
+    ],
+    "entry": "{\"Attribute\": [\"Physique\"], \"Skill name\": [\"Metabolism\"], \"Skill description\": [\"Process substances. Fortify your vessel.\"], \"Cool for\": [\"Iron Stomachs\", \"Bio-Hackers\", \"All-Night Partiers.\"], \"Description\": [\"Metabolism governs your body\\\\'s chemical plant. It determines how you handle everything from a lukewarm beer to a cocktail of combat stims. A robust metabolism can mean the difference between a minor inconvenience and a major system shutdown.\"], \"Use cases\": [\"High Metabolism lets you shrug off poisons and recover from exertion swiftly. You might even find novel uses for everyday consumables. Low Metabolism means hangovers hit like a freight train, and even a mild illness can lay you low for days. Be wary of what you ingest.\"]}"
+  },
+  {
+    "uuid": "1f00e8eb-79db-44b0-9a8d-58277c65cec0",
+    "trigger": [
+      "Motorics",
+      "Reflexes"
+    ],
+    "entry": "{\"Attribute\": [\"Motorics\"], \"Skill name\": [\"Reflexes\"], \"Skill description\": [\"React with lightning speed. Move before thought.\"], \"Cool for\": [\"Duelists\", \"Daredevils\", \"Adrenaline Junkies.\"], \"Description\": [\"Reflexes let you dodge, parry, and act faster than your opponent can blink. Essential for surviving a gunfight or a fistfight. Crucial for snatching that crucial clue before it disappears.\"], \"Use cases\": [\"High Reflexes make you a blur of motion, dodging bullets and landing surprise blows. You might act before you think, leading to impulsive decisions. Low Reflexes mean you\\\\'re slow on the uptake. You\\\\'ll struggle to avoid danger and react to sudden events.\"]}"
+  },
+  {
+    "uuid": "fea02f39-aca3-465c-bf4f-f8b79e5f0a8c",
+    "trigger": [
+      "Motorics",
+      "Stealth"
+    ],
+    "entry": "{\"Attribute\": [\"Motorics\"], \"Skill name\": [\"Stealth\"], \"Skill description\": [\"Conceal your presence. Move like a shadow.\"], \"Cool for\": [\"Nightcrawlers\", \"Silent Operatives\", \"Professional Eavesdroppers.\"], \"Description\": [\"Stealth allows you to navigate unseen. Become a whisper in the concrete jungle. Ideal for gathering intel or avoiding unnecessary confrontations.\"], \"Use cases\": [\"High Stealth fills your mind with unseen paths and opportunities for silent observation. You\\\\'ll feel like a ghost. Low Stealth makes every footstep a thunderclap in your head. You\\\\'ll be acutely aware of how much noise you\\\\'re making.\"]}"
+  },
+  {
+    "uuid": "93ff4015-f2f1-4327-bb9a-36a1cba67bfc",
+    "trigger": [
+      "Motorics",
+      "Lockpicking"
+    ],
+    "entry": "{\"Attribute\": [\"Motorics\"], \"Skill name\": [\"Lockpicking\"], \"Skill description\": [\"Manipulate mechanisms. Bypass physical security.\"], \"Cool for\": [\"Master Thieves\", \"Impatient Investigators\", \"Nosy Parkers.\"], \"Description\": [\"Lockpicking allows you to feel out tumblers and pins. It lets you access restricted areas and unearth hidden secrets. A useful, if legally ambiguous, talent.\"], \"Use cases\": [\"High Lockpicking turns locked doors into mere suggestions. You might become overconfident, trying to open *everything*. Low Lockpicking means even simple locks are formidable obstacles. Frustration will be a constant companion.\"]}"
+  },
+  {
+    "uuid": "de69508d-a788-4bfd-b2d2-b50c5520c820",
+    "trigger": [
+      "Motorics"
+    ],
+    "entry": "{\"Attribute\": [\"Motorics\"], \"Skill Name\": [\"Pickpocketing\"], \"Skill Description\": [\"Lift items unseen. Relieve others of burdens.\"], \"Cool For\": [\"Master Thieves\", \"Desperate Individuals\", \"Kleptomaniacs.\"], \"Description\": [\"Pickpocketing allows you to deftly acquire items from unsuspecting targets. A quick hand, a light touch – essentials for navigating the precarious streets of Hong Kong, especially when official channels fail or funds run dry.\"], \"Use Cases\": [\"High skill makes your fingers dance, nabbing crucial evidence or much-needed cash. Beware\", \"overconfidence can lead to sloppy work. Low skill means clumsy attempts, likely resulting in discovery, a swift kick, or an awkward conversation with your very observant partner, Harrier Du Bois.\"]}"
+  },
+  {
+    "uuid": "91efc83c-9a86-4e80-b4f9-e17c873663fc",
+    "trigger": [
+      "Motorics",
+      "Driving"
+    ],
+    "entry": "{\"Attribute\": [\"Motorics\"], \"Skill name\": [\"Driving\"], \"Skill description\": [\"Master the machine. Command the road.\"], \"Cool for\": [\"Getaway Artists\", \"Speed Demons\", \"Professional Chauffeurs.\"], \"Description\": [\"Driving allows you to handle vehicles with finesse. Navigate treacherous Hong Kong streets or make a swift escape when things get hairy. A steady hand on the wheel can be the difference between life and death.\"], \"Use cases\": [\"High Driving: You feel the vehicle as an extension of your body, pulling off daring maneuvers. However, this confidence might lead to recklessness. Low Driving: Every turn is a gamble, every acceleration a prayer. You might reach your destination, but not without a few new dents and a racing pulse.\"]}"
+  },
+  {
+    "uuid": "5bfa2e59-a723-4b6b-96f2-dd9b8acf0af6",
+    "trigger": [
+      "Motorics",
+      "Marksmanship"
+    ],
+    "entry": "{\"Attribute\": [\"Motorics\"], \"Skill name\": [\"Marksmanship\"], \"Skill description\": [\"Aim true. Hit your target.\"], \"Cool for\": [\"Sharpshooters\", \"Action Heroes\", \"One-Shot Wonders.\"], \"Description\": [\"Marksmanship hones your ability to hit distant targets. It lets you take down foes from afar, disable security systems, or just show off your incredible aim. A steady hand and a keen eye.\"], \"Use cases\": [\"High Marksmanship makes you a deadly shot, hitting improbable targets. You might become overconfident, taking risky shots. Low Marksmanship means you\\\\'ll struggle to hit the broad side of a barn. You might even endanger yourself or allies with stray shots.\"]}"
+  }
+]

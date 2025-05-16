@@ -1,0 +1,53 @@
+{
+    "prompts": [
+        {
+            "id": 0,
+            "injection_depth": 0,
+            "role": "user",
+            "content": "TEST 1 USER LINE\n NEW LINE\n\n TWO NEW LINES. ONE-TIME"
+        },
+        {
+            "id": 1,
+            "injection_depth": 7,
+            "role": "assistant",
+            "content": "TEST 2 ASSISTANT DEPTH 7"
+        },
+        {
+            "id": 2,
+            "injection_depth": 0, 
+            "role": "user",
+            "content": "TEST 3 <{{user}}>{{persona}}</{{user}}> ONE-TIME"
+        },
+        {
+            "id": 3,
+            "injection_depth": 0,
+            "role": "user",
+            "content": "TEST 4 USER DESC: {{description}} ONE-TIME"
+        },
+        {
+            "id": 4,
+            "injection_depth": 0,
+            "role": "user",
+            "content": "TEST 5 USER SCENARIO: {{scenario}} ONE-TIME"
+        },
+        {
+            "id": 5,
+            "injection_depth": 2,
+            "role": "user",
+            "content": "TEST 6 USER DEPTH 2 ONE-TIME"
+
+        },
+        {
+            "id": 6,
+            "injection_depth": "0",
+            "role": "assistant",
+            "content": "TEST 7 ASSISTANT CONFIRMS? PENULT"
+        },
+        {
+            "id": 7,
+            "injection_depth": "0",
+            "role": "user",
+            "content": "TEST 8 USER CONFIRMED END"
+        }
+    ]
+}
